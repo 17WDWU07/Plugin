@@ -1,0 +1,1 @@
+<h1> Beu Plugin Page </h1>
